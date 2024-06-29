@@ -1,7 +1,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I+am+Pablo;I'm+a+Full+Stack+Web+Developer;Never%20stop%20learning%20&center=true&width=500&height=65"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=En,+un+mundo+de;ceros+y+unos;soy+un+programador+compilando+mi+existenciaNever%20stop%20learning%20&center=true&width=500&height=65"></a>
 </p>
 
 <p align="left"> 
@@ -15,6 +15,9 @@
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hello, I'm [Pablo](https://pablopresas.com). I'm a full-stack developer👋
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
+ 
 
 💻 I'm a Full Stack developer with extensive experience in IT infrastructure.<br>
 📚 I've loved computers since I was 9 years old, when I built my first computer using books from the library.<br>
