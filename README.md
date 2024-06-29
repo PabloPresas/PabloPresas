@@ -1,7 +1,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=En,+un+mundo+de;ceros+y+unos;soy+un+programador+compilando+mi+existenciaNever%20stop%20learning%20&center=true&width=500&height=65"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=En+un+mundo+de+ceros+y+unos;soy+un+programador+tratando;de+compilar+mi+existencia+🤙🏻%20&center=true&width=500&height=65"></a>
 </p>
 
 <p align="left"> 
